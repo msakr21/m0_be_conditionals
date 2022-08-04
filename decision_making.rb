@@ -56,21 +56,21 @@ end
 
 #The code written is an if conditional statement with branches.
 #The first condition is whether the integer variable 'bear_choice' is equal to 1. (line 25)
-#If it is then it will print the string on line 26
+#If it is then it will do nothing because there's no print or puts for the string on line 26
 #The second condition/branch is whether the integer variable 'bear_choice' is equal to 2 (line 27)
-#If it is then it will print string on line 28
+#If it is then it will do nothing because there's no print or puts for the string on line 28
 #The third condition/branch is whether the integer variable 'bear_choice' is equal to 3 (line 29)
-#If it is then it will print string on line 30
+#If it is then it will do nothing because there's no print or puts for the string on line 30
 #The last branch is if none of the previous branch conditions are true (line 31)
-#If none of the previous branch conditions are true then it will print the string on line 32
-#Line 33 ends the statement
+#If none of the previous branch conditions are true then it will do nothing because there's no print or puts for the string on line 32
+#Line 33 ends the if statement
 
 # 5. If you changed the variable bear_choice to equal 3, what will be the final outcome be?
 
 #Answer:
 
 # If the final outcome refers to what happens with the code:
-#The string on line 30, "You run as fast as you can into the next room. It's full of snakes!", will print.
+#The string on line 30, "You run as fast as you can into the next room. It's full of snakes!", will not print because there's not puts or print.
 #If the final outcome, however, refers to my roleplaying the scenario, I will have a Samuel L. Jackson moment, a la Snakes on a Plane.
 
 # 6. If you changed the variable door_choice to equal 1, and the variable bear_choice to equal 2, what will be the final outcome be?
